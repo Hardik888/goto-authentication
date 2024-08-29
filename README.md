@@ -1,3 +1,3 @@
 
 
-🎉 React My Authentication Sidekick!
+🎉   My Authentication Sidekick For React!
